@@ -39,7 +39,7 @@ Compression des objets: 100% (2/2), fait.
 Écriture des objets: 100% (3/3), 301 bytes | 150.00 KiB/s, fait.
 Total 3 (delta 1), réutilisés 0 (delta 0)
 remote: Resolving deltas: 100% (1/1), completed with 1 local object.
-To https://github.com/PatrickRioche/CPPSLT.git
+To https://github.com/PatrickRioche/porteocuvma401.git
    0609a0b..82b62a2  master -> master
 ```
 
@@ -50,7 +50,7 @@ remote: Counting objects: 100% (11/11), done.
 remote: Compressing objects: 100% (8/8), done.
 remote: Total 9 (delta 4), reused 0 (delta 0), pack-reused 0
 Dépaquetage des objets: 100% (9/9), fait.
-Depuis https://github.com/PatrickRioche/CPPSLT
+Depuis https://github.com/PatrickRioche/porteocuvma401
    82b62a2..13ca05d  master     -> origin/master
 Mise à jour 82b62a2..13ca05d
 Fast-forward
